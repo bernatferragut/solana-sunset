@@ -1,5 +1,5 @@
 
-![image info](./images/SOLOS COLLECTION.png)
+![SOLOS IMAGE](images/SOLOS COLLECTION.png)
 
 
 # solana-sunset
