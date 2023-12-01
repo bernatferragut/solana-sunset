@@ -1,8 +1,6 @@
-
-![SOLOS IMAGE](images/SOLOS COLLECTION.png)
-
-
 # solana-sunset
+
+![SOLOS IMAGE](/images/SOLOS COLLECTION.png)
 
 ##Introducing the "Solana Sunset Series" 
 
